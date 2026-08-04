@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/itsthanush/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/itsthanush/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/itsthanush/LeetCode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/itsthanush/LeetCode/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/itsthanush/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/itsthanush/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/itsthanush/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/itsthanush/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/itsthanush/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/itsthanush/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itsthanush/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsthanush/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/itsthanush/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
@@ -213,4 +216,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/itsthanush/LeetCode/tree/master/0011-container-with-most-water) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
