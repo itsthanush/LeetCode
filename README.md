@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/itsthanush/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/itsthanush/LeetCode/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/itsthanush/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/itsthanush/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/itsthanush/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/itsthanush/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/itsthanush/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsthanush/LeetCode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/itsthanush/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/itsthanush/LeetCode/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/itsthanush/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/itsthanush/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/itsthanush/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/itsthanush/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
