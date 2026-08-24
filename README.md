@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/itsthanush/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/itsthanush/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsthanush/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
