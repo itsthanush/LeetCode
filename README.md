@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/itsthanush/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/itsthanush/LeetCode/tree/master/0796-rotate-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/itsthanush/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1927-sum-game](https://github.com/itsthanush/LeetCode/tree/master/1927-sum-game) |
 | [2418-sort-the-people](https://github.com/itsthanush/LeetCode/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/itsthanush/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/itsthanush/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1927-sum-game](https://github.com/itsthanush/LeetCode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsthanush/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/itsthanush/LeetCode/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/itsthanush/LeetCode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/itsthanush/LeetCode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
