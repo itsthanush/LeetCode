@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/itsthanush/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/itsthanush/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/itsthanush/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/itsthanush/LeetCode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/itsthanush/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/itsthanush/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/itsthanush/LeetCode/tree/master/0739-daily-temperatures) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/itsthanush/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsthanush/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/itsthanush/LeetCode/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/itsthanush/LeetCode/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsthanush/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/itsthanush/LeetCode/tree/master/2418-sort-the-people) |
 ## Queue
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsthanush/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/itsthanush/LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
