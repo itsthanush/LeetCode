@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/itsthanush/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/itsthanush/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/itsthanush/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/itsthanush/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/itsthanush/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/itsthanush/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/itsthanush/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsthanush/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/itsthanush/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/itsthanush/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/itsthanush/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/itsthanush/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/itsthanush/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/itsthanush/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/itsthanush/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsthanush/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/itsthanush/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/itsthanush/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/itsthanush/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsthanush/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/itsthanush/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsthanush/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/itsthanush/LeetCode/tree/master/2418-sort-the-people) |
 ## Queue
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/itsthanush/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/itsthanush/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/itsthanush/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/itsthanush/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/itsthanush/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/itsthanush/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -227,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/itsthanush/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/itsthanush/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/itsthanush/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
