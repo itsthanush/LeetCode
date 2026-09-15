@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/itsthanush/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/itsthanush/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsthanush/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/itsthanush/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/itsthanush/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/itsthanush/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2418-sort-the-people](https://github.com/itsthanush/LeetCode/tree/master/2418-sort-the-people) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/itsthanush/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/itsthanush/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsthanush/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/itsthanush/LeetCode/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/itsthanush/LeetCode/tree/master/0796-rotate-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/itsthanush/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1927-sum-game](https://github.com/itsthanush/LeetCode/tree/master/1927-sum-game) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/itsthanush/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsthanush/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/itsthanush/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/itsthanush/LeetCode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/itsthanush/LeetCode/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsthanush/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/itsthanush/LeetCode/tree/master/2418-sort-the-people) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/itsthanush/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/itsthanush/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/itsthanush/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/itsthanush/LeetCode/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
 | ------- |
