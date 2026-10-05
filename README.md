@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/itsthanush/LeetCode/tree/master/0796-rotate-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/itsthanush/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1927-sum-game](https://github.com/itsthanush/LeetCode/tree/master/1927-sum-game) |
+| [2390-removing-stars-from-a-string](https://github.com/itsthanush/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/itsthanush/LeetCode/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/itsthanush/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/itsthanush/LeetCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/itsthanush/LeetCode/tree/master/0867-transpose-matrix) |
+| [2390-removing-stars-from-a-string](https://github.com/itsthanush/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/itsthanush/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/itsthanush/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/itsthanush/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/itsthanush/LeetCode/tree/master/0901-online-stock-span) |
+| [2390-removing-stars-from-a-string](https://github.com/itsthanush/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
