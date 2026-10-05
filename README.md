@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/itsthanush/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/itsthanush/LeetCode/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/itsthanush/LeetCode/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itsthanush/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/itsthanush/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1927-sum-game](https://github.com/itsthanush/LeetCode/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/itsthanush/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/itsthanush/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/itsthanush/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/itsthanush/LeetCode/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itsthanush/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/itsthanush/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
