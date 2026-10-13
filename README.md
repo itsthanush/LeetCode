@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/itsthanush/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/itsthanush/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/itsthanush/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/itsthanush/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/itsthanush/LeetCode/tree/master/2418-sort-the-people) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsthanush/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itsthanush/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/itsthanush/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1927-sum-game](https://github.com/itsthanush/LeetCode/tree/master/1927-sum-game) |
+| [2351-first-letter-to-appear-twice](https://github.com/itsthanush/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/itsthanush/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/itsthanush/LeetCode/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/itsthanush/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/itsthanush/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/itsthanush/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/itsthanush/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2351-first-letter-to-appear-twice](https://github.com/itsthanush/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/itsthanush/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/itsthanush/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/itsthanush/LeetCode/tree/master/0389-find-the-difference) |
+| [2351-first-letter-to-appear-twice](https://github.com/itsthanush/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Memoization
 |  |
 | ------- |
