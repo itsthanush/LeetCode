@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/itsthanush/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/itsthanush/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/itsthanush/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/itsthanush/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/itsthanush/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1927-sum-game](https://github.com/itsthanush/LeetCode/tree/master/1927-sum-game) |
