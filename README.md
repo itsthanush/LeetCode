@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/itsthanush/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/itsthanush/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/itsthanush/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/itsthanush/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/itsthanush/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/itsthanush/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/itsthanush/LeetCode/tree/master/0231-power-of-two) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsthanush/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/itsthanush/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/itsthanush/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsthanush/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/itsthanush/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/itsthanush/LeetCode/tree/master/0877-stone-game) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/itsthanush/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/itsthanush/LeetCode/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
