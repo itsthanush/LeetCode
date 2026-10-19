@@ -4,12 +4,13 @@ class Solution {
         List<Integer>res=new ArrayList<>();
 
         for(int i=0;i<words.length;i++){
-            String word=words[i];
-
-            if(word.contains(String.valueOf(x))){
-                res.add(i);
+            for(int j=0;j<words[i].length();j++){
+                if(words[i].charAt(j) == x){
+                    res.add(i);
+                    break;
+                }
             }
         }
-return res;
+        return res;
     }
 }
