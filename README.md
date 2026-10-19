@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/itsthanush/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/itsthanush/LeetCode/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/itsthanush/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2942-find-words-containing-character](https://github.com/itsthanush/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsthanush/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsthanush/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsthanush/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/itsthanush/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/itsthanush/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/itsthanush/LeetCode/tree/master/2418-sort-the-people) |
+| [2942-find-words-containing-character](https://github.com/itsthanush/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/itsthanush/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
